@@ -25,7 +25,7 @@
 <div align="center">
   
 ![truelovekis's GitHub stats](https://github-readme-stats.vercel.app/api?username=truelovekis&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truelovekis&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truelovekis&layout=compact&theme=ocean_dark&langs_count=11)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
